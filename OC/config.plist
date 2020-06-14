@@ -116,7 +116,7 @@
 			<key>ProtectSecureBoot</key>
 			<true/>
 			<key>ProtectUefiServices</key>
-			<false/>
+			<true/>
 			<key>ProvideCustomSlide</key>
 			<false/>
 			<key>RebuildAppleMemoryMap</key>
