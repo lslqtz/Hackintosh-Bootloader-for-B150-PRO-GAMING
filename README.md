@@ -10,9 +10,9 @@ Motherboard: ASUS B150 PRO GAMING (Latest UEFI BIOS)
 
 Wi-Fi Card: Apple BCM943602CDP (802.11a/b/g/n/ac, 2.4GHz/5GHz HT80, 3x3 MIMO)
 
-## Not Work
+## Not Works
 ### OpenCore
-Everything is right!
+It will break my BIOS, but you can reset nvram
 
 ### Clover
 Sidecar or DRM
