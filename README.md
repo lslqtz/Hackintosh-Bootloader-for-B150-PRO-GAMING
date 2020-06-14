@@ -2,6 +2,8 @@
 
 Default settings: iMac18,2, No GUI, No Picker, HiDPI (2x), Power Nap On (darkwake=10)
 
+macOS Version: Catalina 10.15.5
+
 CPU: i3-6100 (XCPM+HWP by CPUFriend)
 
 GPU: Intel HD Graphic 530 (ig-platform-id: 0x19120001) + Sapphire AMD RX470D (VBIOS RX570, PCI-e Slot-1)
