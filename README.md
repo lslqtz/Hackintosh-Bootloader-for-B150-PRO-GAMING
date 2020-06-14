@@ -12,7 +12,7 @@ Wi-Fi Card: Apple BCM943602CDP (802.11a/b/g/n/ac, 2.4GHz/5GHz HT80, 3x3 MIMO)
 
 ## Not Works
 ### OpenCore
-It may break your BIOS, but you can reset nvram to resolve it
+It may break your UEFI BIOS, but you can reset nvram to resolve it
 
 ### Clover
 Sidecar or DRM
