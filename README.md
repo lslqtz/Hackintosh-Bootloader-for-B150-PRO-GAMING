@@ -15,6 +15,6 @@ Everything is right!
 ### Clover
 Sidecar or DRM
 
-If you add shikigva=80 to boot-args, Sidecar works but not perfect, DRM OK.
+If you add shikigva=80 to boot-args, Sidecar works but not perfect (frame blur), DRM OK.
 
 Or do not do anything, use default config, Sidecar works perfect, but DRM doesn't work.
