@@ -2,9 +2,9 @@
 
 CPU: i3-6100 (XCPM+HWP by CPUFriend)
 
-GPU: Sapphire AMD RX470D (VBIOS RX570)
+GPU: Intel HD Graphic 530 (ig-platform-id: 0x19120001) + Sapphire AMD RX470D (VBIOS RX570, PCI-e Slot-1)
 
-Memory: DDR4 2400 8GB (Running at 2133 MHz, PCI-e Slot-1)
+Memory: DDR4 2400 8GB (Running at 2133 MHz, BANK0/DIMM0)
 
 Motherboard: ASUS B150 PRO GAMING (Latest UEFI BIOS)
 
