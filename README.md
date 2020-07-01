@@ -16,10 +16,13 @@ macOS Version: Catalina 10.15.5
 
 ## Not Work
 ### OpenCore
-It may break your UEFI BIOS, but you can reset nvram to resolve it
+No Problem!
 
-Update 2020-06-16: I think it's ok now
+----------
+
 Update 2020-07-01: Disable Fast Boot in UEFI BIOS
+
+It may break your UEFI BIOS, but you can reset nvram to resolve it
 
 ### Clover
 Sidecar or DRM
