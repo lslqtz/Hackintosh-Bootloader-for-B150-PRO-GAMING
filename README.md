@@ -19,6 +19,7 @@ macOS Version: Catalina 10.15.5
 It may break your UEFI BIOS, but you can reset nvram to resolve it
 
 Update 2020-06-16: I think it's ok now
+Update 2020-07-01: Disable Fast Boot in UEFI BIOS
 
 ### Clover
 Sidecar or DRM
