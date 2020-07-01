@@ -7,7 +7,7 @@ macOS Version: Catalina 10.15.5
 | Hardware | Model |
 | --- | --- |
 | CPU | i3-6100 (XCPM+HWP by CPUFriend) |
-| GPU | Intel HD Graphic 530 (ig-platform-id: 0x19120001) + Sapphire AMD RX470D (VBIOS RX570, PCI-e Slot-1) |
+| GPU | Intel HD Graphic 530 (no-connector, ig-platform-id: 0x19120001) + Sapphire AMD RX470D (VBIOS RX570, PCI-e Slot-1) |
 | SSD | Apple SSD SM0128G (M.2 in use) |
 | Memory | DDR4 2400 8GB (Running at 2133 MHz, BANK0/DIMM0) |
 | Soundcard | Onboard Realtek ALC1150 (alc-layout-id: 3) |
