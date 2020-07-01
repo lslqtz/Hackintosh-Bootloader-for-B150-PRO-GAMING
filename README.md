@@ -14,6 +14,29 @@ macOS Version: Catalina 10.15.5
 | Motherboard | ASUS B150 PRO GAMING (Latest UEFI BIOS) |
 | Wi-Fi Card | Apple BCM943602CDP (4 antennas, 802.11a/b/g/n/ac, Simultaneous dual band (2.4GHz & 5GHz), HT80 with 3x3 MIMO, used by iMac Intel 21.5” or 27” (Mid 2015-Late 2015)) |
 
+| BIOS Setting | Value |
+| --- | --- |
+| Intel VT | Enabled |
+| Intel VT-d | Enabled |
+| X.M.P. | Profile#1 |
+| ASPM | Auto |
+| PEG - ASPM | Auto |
+| Native ASPM | Enabled |
+| CFG Lock | Disabled |
+| Above 4G Decoding | Enabled |
+| Memory Remap | Enabled |
+| iGPU Multi-Monitor | Enabled |
+| DVMT Pre-Allocated | 128M |
+| ErP Ready | Enabled (S4+S5) |
+| Intel LAN Controller | Enabled |
+| Power On By PCI-e/PCI | Enabled |
+| Legacy USB Support | Disabled |
+| USB Keyboard and Mouse Simulator | Disabled |
+| Fast Boot | Disabled |
+| POST Delay Time | 0 sec |
+| Launch CSM | Disabled |
+| OS Type | Other OS |
+
 ## Not Work
 ### OpenCore
 No Problem!
