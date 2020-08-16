@@ -12,7 +12,7 @@ macOS Version: Catalina 10.15.5
 | Memory | DDR4 2400 8GB (Running at 2133 MHz, BANK0/DIMM0) |
 | Soundcard | Onboard Realtek ALC1150 (alc-layout-id: 3) |
 | Motherboard | ASUS B150 PRO GAMING (Latest UEFI BIOS) |
-| Wi-Fi Card | Apple BCM943602CDP (4 antennas, 802.11a/b/g/n/ac, Simultaneous dual band (2.4GHz & 5GHz), HT80 with 3x3 MIMO, used by iMac Intel 21.5” or 27” (Mid 2015-Late 2015)) |
+| Wi-Fi Card | Apple BCM943602CDP (4 antennas, 802.11a/b/g/n/ac, Simultaneous dual band (2.4GHz & 5GHz), HT80 with 3x3 MIMO, used by iMac Intel 21.5” or 27” (Mid 2015-2019)) |
 
 | BIOS Setting | Value |
 | --- | --- |
