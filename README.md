@@ -1,4 +1,4 @@
-# Hackintosh-Bootloader-for-B150-RX570
+# Hackintosh-Bootloader-for-B150-PRO-GAMING
 
 Default settings: iMac18,2, No GUI, No Picker, HiDPI (2x), Power Nap On (darkwake=10)
 
