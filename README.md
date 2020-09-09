@@ -1,8 +1,10 @@
 # Hackintosh-Bootloader-for-B150-PRO-GAMING
 
-Default settings: iMac18,2, No GUI, No Picker, HiDPI (2x), Power Nap On (darkwake=10)
+Default settings: iMac18,2, No GUI, No Picker, HiDPI (2x), Power Nap On
 
-macOS Version: Catalina 10.15.5
+macOS Version: Big Sur 11 (Beta, 20A5364e)
+
+This is the last update, because I have replaced the motherboard to Maximus VIII Hero (Z170 chipset).
 
 | Hardware | Model |
 | --- | --- |
