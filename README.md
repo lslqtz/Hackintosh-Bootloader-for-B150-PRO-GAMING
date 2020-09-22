@@ -21,8 +21,6 @@ This is the last update, because I have replaced the motherboard to Maximus VIII
 | Intel VT | Enabled |
 | Intel VT-d | Enabled |
 | X.M.P. | Profile#1 |
-| ASPM | Auto |
-| PEG - ASPM | Auto |
 | Native ASPM | Enabled |
 | CFG Lock | Disabled |
 | Above 4G Decoding | Enabled |
